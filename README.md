@@ -7,6 +7,10 @@
 - Ethan Sean Gapulan
 - Marc Raven Sian
 
+## Figma Design
+
+link: `https://www.figma.com/design/ZDwpMP3tRk4zyvx14o6V6f/142-Lab-Final-Project?node-id=15-22&t=2jdRe1zoi1zIuKeq-1`
+
 ## Tech Stack
 
 | Layer | Language |
