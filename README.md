@@ -9,7 +9,7 @@
 
 ## Figma Design
 
-link: `https://www.figma.com/design/ZDwpMP3tRk4zyvx14o6V6f/142-Lab-Final-Project?node-id=15-22&t=2jdRe1zoi1zIuKeq-1`
+link:`https://www.figma.com/design/ZDwpMP3tRk4zyvx14o6V6f/142-Lab-Final-Project?node-id=15-22&t=2jdRe1zoi1zIuKeq-1`
 
 ## Tech Stack
 
@@ -17,14 +17,14 @@ link: `https://www.figma.com/design/ZDwpMP3tRk4zyvx14o6V6f/142-Lab-Final-Project
 | --- | --- |
 | Frontend | React |
 | Backend | Node.js & Express.js |
-| Database | MongoDB |
+| Database | Firebase |
 
 ## Requirements
 
 - Git
 - npm
 - Node.js (20.x+)
-- A MongoDB database
+- A Firebase database
 
 ## Installation & Initialization
 
@@ -38,7 +38,13 @@ cd Lab-Equipment-System
 2. Create `.env` file in project root
 
 ```bash
-MONGO_DB=your-mongodb-connection-string
+VITE_FIREBASE_API_KEY=
+VITE_FIREBASE_AUTH_DOMAIN=
+VITE_FIREBASE_PROJECT_ID=
+VITE_FIREBASE_STORAGE_BUCKET=
+VITE_FIREBASE_MESSAGING_SENDER_ID=
+VITE_FIREBASE_APP_ID=
+VITE_FIREBASE_MEASUREMENT_ID=
 ```
 
 3. Set up the client
